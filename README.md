@@ -1,2 +1,2 @@
 # FireAlarmSystem
-curcuit simulation using tinkercad - https://www.tinkercad.com/things/eNQQbUSSYpU?sharecode=undefined
+curcuit simulation using tinkercad -https://www.tinkercad.com/things/eNQQbUSSYpU
