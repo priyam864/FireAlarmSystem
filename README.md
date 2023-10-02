@@ -1,5 +1,5 @@
 # FireAlarmSystem-IOT
-curcuit simulation using tinkercad -https://www.tinkercad.com/things/eNQQbUSSYpU
+circuit simulation using tinkercad -https://www.tinkercad.com/things/eNQQbUSSYpU
 
 
 Hardware Requirements.
