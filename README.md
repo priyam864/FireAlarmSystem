@@ -15,6 +15,7 @@ Hardware Requirements.
 7.  Piezo Buzzer
 8.  Jumper Wires
 
+
    
 # How It Works
 Sensors continuously monitor the environment for any rise in temperature or smoke concentration.
